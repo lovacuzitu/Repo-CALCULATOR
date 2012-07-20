@@ -1,0 +1,1 @@
+Klasican digitron. Detaljnije pojasnjenje znacenja pojedinih linija koda dato je u samom projektu.
