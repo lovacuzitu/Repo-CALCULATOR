@@ -1,0 +1,11 @@
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\bin\Debug\Digitron.exe
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\bin\Debug\Digitron.pdb
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\obj\x86\Debug\Digitron.Form1.resources
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\obj\x86\Debug\Digitron.Properties.Resources.resources
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\obj\x86\Debug\Digitron.exe
+c:\users\dejo\documents\visual studio 2010\Projects\Digitron\Digitron\obj\x86\Debug\Digitron.pdb
+C:\Users\Dejo\Desktop\FONIS projekti\Digitron\Digitron\obj\x86\Debug\Digitron.exe
+C:\Users\Dejo\Desktop\FONIS projekti\Digitron\Digitron\obj\x86\Debug\Digitron.pdb
